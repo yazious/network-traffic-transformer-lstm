@@ -1,0 +1,21 @@
+
+MASTER RESULTS SUMMARY — ALL TASKS & DATASETS
+=======================================================
+
+Task 1 — CIC-Darknet2020 (4-class: Tor/VPN Network Type)
+Model                  Accuracy   Precision  Recall     F1-Score
+LSTM                   92.83%     92.78%     92.83%     92.77%
+CNN-LSTM               94.31%     94.42%     94.31%     94.32%
+Transformer-LSTM       93.57%     93.66%     93.57%     93.58%  [PROPOSED]
+
+Task 2 — CIC-Darknet2020 (8-class: Application Type)
+Model                  Accuracy   Precision  Recall     F1-Score
+LSTM                   74.24%     74.38%     74.24%     72.11%
+CNN-LSTM               79.04%     79.33%     79.04%     77.98%
+Transformer-LSTM       76.62%     76.37%     76.62%     74.87%  [PROPOSED]
+
+Task 3 — CICIDS2017 (12-class: Attack Type)
+Model                  Accuracy   Precision  Recall     F1-Score
+LSTM                   98.48%     98.59%     98.48%     98.37%
+CNN-LSTM               98.90%     99.05%     98.90%     98.82%
+Transformer-LSTM       98.81%     98.95%     98.81%     98.72%  [PROPOSED]
