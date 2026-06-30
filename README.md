@@ -160,14 +160,42 @@ The attention mechanism used in the Transformer-LSTM model helped capture import
 
 ## References
 
-1. Pacheco, F., et al. Towards the Deployment of Machine Learning Solutions in Network Traffic Classification. IEEE Communications Surveys & Tutorials, 2018.
+1. A. Azab, M. Khasawneh, S. Alrabaee, K.-K. R. Choo, and M. Sarsour, "Network Traffic Classification: Techniques, Datasets, and Challenges," *Digital Communications and Networks*, vol. 10, pp. 676–692, 2024.
 
-2. Liu, X., et al. TransECA-Net: A Transformer-Based Model for Encrypted Traffic Classification. Applied Sciences, 2025.
+2. F. Pacheco, E. Exposito, M. Gineste, C. Baudoin, and J. Aguilar, "Towards the Deployment of Machine Learning Solutions in Network Traffic Classification: A Systematic Survey," *IEEE Communications Surveys & Tutorials*, vol. 21, no. 2, pp. 1988–2014, 2019. DOI: 10.1109/COMST.2018.2883147
 
-3. Azab, M., et al. Network Traffic Classification: Techniques, Datasets, and Challenges, 2024.
+3. J. Zhao, X. Jing, Z. Yan, and W. Pedrycz, "Network Traffic Classification for Data Fusion: A Survey," *Information Fusion*, vol. 72, pp. 22–47, 2021.
 
-4. Zhang, J., et al. Robust Network Traffic Classification. IEEE/ACM Transactions on Networking.
+4. J. Zhang, X. Chen, Y. Xiang, W. Zhou, and J. Wu, "Robust Network Traffic Classification," *IEEE/ACM Transactions on Networking*, vol. 23, no. 4, pp. 1257–1270, 2015. DOI: 10.1109/TNET.2014.2320577
 
-5. CIC-Darknet2020 Dataset.
+5. Z. Liu, Y. Xie, Y. Luo, Y. Wang, and X. Ji, "TransECA-Net: A Transformer-Based Model for Encrypted Traffic Classification," *Applied Sciences*, vol. 15, no. 6, p. 2977, 2025. DOI: 10.3390/app15062977
 
-6. CICIDS2017 Dataset.
+6. N. Mandela, Sonia, N. Mistry, and A. Nagpal, "Efficient Dark Web Traffic Classification Using a Hybrid CNN-LSTM Model," *International Journal of Information Technology*, 2025. DOI: 10.1007/s41870-025-02427-x
+
+7. I. Sharafaldin, A. H. Lashkari, and A. A. Ghorbani, "Toward Generating a New Intrusion Detection Dataset and Intrusion Traffic Characterization," in *Proceedings of the 4th International Conference on Information Systems Security and Privacy (ICISSP)*, 2018, pp. 108–116.
+
+8. H. Afifi et al., "Machine Learning with Computer Networks: Techniques, Datasets, and Models," *IEEE Access*, vol. 12, pp. 54673–54703, 2024. DOI: 10.1109/ACCESS.2024.3384460
+
+9. N. Bayat, W. Jackson, and D. Liu, "Deep Learning for Network Traffic Classification," *arXiv preprint arXiv:2106.12693*, 2021.
+
+10. A. Vaswani et al., "Attention Is All You Need," in *Advances in Neural Information Processing Systems (NeurIPS)*, vol. 30, 2017.
+
+11. S. Hochreiter and J. Schmidhuber, "Long Short-Term Memory," *Neural Computation*, vol. 9, no. 8, pp. 1735–1780, 1997.
+
+12. M. Lopez-Martin, B. Carro, A. Sanchez-Esguevillas, and J. Lloret, "Network Traffic Classifier with Convolutional and Recurrent Neural Networks for Internet of Things," *IEEE Access*, vol. 5, pp. 18042–18050, 2017.
+
+13. M. Lotfollahi, M. Jafari Siavoshani, R. Shirali Hossein Zade, and M. Saberian, "Deep Packet: A Novel Approach for Encrypted Traffic Classification Using Deep Learning," *Soft Computing*, vol. 24, no. 3, pp. 1999–2012, 2020.
+
+14. H. Yao, C. Liu, P. Zhang, S. Wu, C. Jiang, and S. Yu, "Identification of Encrypted Traffic Through Attention Mechanism Based Long Short-Term Memory," *IEEE Transactions on Big Data*, 2019.
+
+15. A. H. Lashkari, G. Kaur, and A. Rahali, "DIDarknet: A Contemporary Approach to Detect and Characterize the Darknet Traffic Using Deep Image Learning," in *Proceedings of the 10th International Conference on Communication and Network Security*, Tokyo, Japan, Nov. 2020.
+
+16. X. Lin, G. Xiong, G. Gou, Z. Li, J. Shi, and J. Yu, "ET-BERT: A Contextualized Datagram Representation with Pre-training Transformers for Encrypted Traffic Classification," in *Proceedings of the ACM Web Conference (WWW)*, 2022, pp. 633–642.
+
+17. Z. Liu et al., "Spatial-Temporal Feature with Dual-Attention Mechanism for Encrypted Malicious Traffic Detection," *Security and Communication Networks*, 2023.
+
+18. J. H. Kalwar and S. Bhatti, "Deep Learning Approaches for Network Traffic Classification in the Internet of Things (IoT): A Survey," *arXiv preprint arXiv:2402.00920*, 2024.
+
+19. R. Vinayakumar, M. Alazab, K. P. Soman, P. Poornachandran, A. Al-Nemrat, and S. Venkatraman, "Deep Learning Approach for Intelligent Intrusion Detection System," *IEEE Access*, vol. 7, pp. 41525–41550, 2019.
+
+20. C. Yin, Y. Zhu, J. Fei, and X. He, "A Deep Learning Approach for Intrusion Detection Using Recurrent Neural Networks," *IEEE Access*, vol. 5, pp. 21954–21961, 2017.
